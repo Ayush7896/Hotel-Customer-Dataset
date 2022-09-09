@@ -4,7 +4,7 @@ Write a regex to extract all the numbers with orange color background from the b
 
 {"orders":[{"id":1},{"id":2},{"id":3},{"id":4},{"id":5},{"id":6},{"id":7},{"id":8},{"id":9},{"id":10},{"id":11},{"id":648},{"id":649},{"id":650},{"id":651},{"id":652},{"id":653}],"errors":[{"code":3,"message":"[PHP Warning #2] count(): Parameter must be an array or an object that implements Countable (153)"}]}
 
-solution colab file : https://colab.research.google.com/drive/1lKDJDvNxcJHhZjZ1oUjZ5up_7G-Yv-DN#scrollTo=Ywz4Cs3ELOBU
+solution colab file : https://colab.research.google.com/drive/1lKDJDvNxcJHhZjZ1oUjZ5up_7G-Yv-DN?usp=sharing
 
 Part 2 
 Here is the data set that contains the history of customer booking in a hotel.
@@ -18,7 +18,7 @@ the prediction with below test data.
 
 3. Host/Deploy the results using any hosting service you want (streamlit/flask)
 
-solution colab file - https://colab.research.google.com/drive/1lKDJDvNxcJHhZjZ1oUjZ5up_7G-Yv-DN#scrollTo=Ywz4Cs3ELOBU
+solution colab file - https://colab.research.google.com/drive/1lKDJDvNxcJHhZjZ1oUjZ5up_7G-Yv-DN?usp=sharing
 Web app link: https://hotel3.herokuapp.com/
 
 Bonus Questions
